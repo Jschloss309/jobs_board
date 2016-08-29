@@ -10,6 +10,8 @@ gem 'jbuilder', '~> 2.5'
 gem 'simple_form'
 gem 'haml'
 gem 'bootstrap-sass'
+gem 'hirb'
+
 
 group :development, :test do
   gem 'byebug', platform: :mri
